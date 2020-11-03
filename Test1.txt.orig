@@ -6,6 +6,12 @@
 
 4. Added one more line.
 
-5. Added line for  newdir
-6. Added six  commit in test 
+<<<<<<< HEAD
+5. Added line for  newdi
+
 6. commited in main by raj.
+=======
+5. Added line for  newdir
+
+6. Added six  commit in test 
+>>>>>>> Added commit in test
